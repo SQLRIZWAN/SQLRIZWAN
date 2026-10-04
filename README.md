@@ -65,6 +65,26 @@
 <img src="https://img.shields.io/badge/GTA%20Grindset-3FB950?style=flat-square" alt="GTA Grindset" />
 <img src="https://img.shields.io/badge/Bug%20Factory-FF6633?style=flat-square" alt="Bug Factory" />
 <img src="https://img.shields.io/badge/Reels%20%3E%20Sleep-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Reels over Sleep" />
+<br/>
+<img src="https://img.shields.io/badge/Script%20Kiddie-8957E5?style=flat-square" alt="Script Kiddie" />
+<img src="https://img.shields.io/badge/Bug%20Nahi%20Feature%20Hai-3FB950?style=flat-square" alt="Bug Nahi Feature Hai" />
+<img src="https://img.shields.io/badge/Jugaad%20Engineer-FF9900?style=flat-square" alt="Jugaad Engineer" />
+<img src="https://img.shields.io/badge/Backbencher-58A6FF?style=flat-square" alt="Backbencher" />
+<br/>
+<img src="https://img.shields.io/badge/Rage%20Quit%20Expert-D00000?style=flat-square" alt="Rage Quit Expert" />
+<img src="https://img.shields.io/badge/Headshot%20King-FFD700?style=flat-square" alt="Headshot King" />
+<img src="https://img.shields.io/badge/Lag%20Spike%20Victim-F78166?style=flat-square" alt="Lag Spike Victim" />
+<img src="https://img.shields.io/badge/AFK%20in%20Life-6E7681?style=flat-square" alt="AFK in Life" />
+<br/>
+<img src="https://img.shields.io/badge/Delulu%20Champion-FF66B2?style=flat-square" alt="Delulu Champion" />
+<img src="https://img.shields.io/badge/404%20Motivation%20Not%20Found-D00000?style=flat-square" alt="404 Motivation Not Found" />
+<img src="https://img.shields.io/badge/EMI%20Warrior-00C853?style=flat-square" alt="EMI Warrior" />
+<img src="https://img.shields.io/badge/Chai%20over%20Therapy-8B4513?style=flat-square" alt="Chai over Therapy" />
+<br/>
+<img src="https://img.shields.io/badge/Brainrot%20Certified-8957E5?style=flat-square" alt="Brainrot Certified" />
+<img src="https://img.shields.io/badge/Distraction%20Pro%20Max-E4405F?style=flat-square" alt="Distraction Pro Max" />
+<img src="https://img.shields.io/badge/Main%20Character-58A6FF?style=flat-square" alt="Main Character" />
+<img src="https://img.shields.io/badge/Deadline%20Ka%20Darr-FF6633?style=flat-square" alt="Deadline Ka Darr" />
 
 <br/><br/>
 
