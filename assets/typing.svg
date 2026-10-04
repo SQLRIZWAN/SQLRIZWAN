@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 64" width="700" height="64">
+  <style>
+    .p { opacity: 0; animation: show 15s infinite; }
+    .p0 { animation-delay: -15s; }
+    .p1 { animation-delay: -12.5s; }
+    .p2 { animation-delay: -10s; }
+    .p3 { animation-delay: -7.5s; }
+    .p4 { animation-delay: -5s; }
+    .p5 { animation-delay: -2.5s; }
+    @keyframes show { 0% { opacity: 1; } 14% { opacity: 1; } 16% { opacity: 0; } 100% { opacity: 0; } }
+    text { font-family: 'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 26px; font-weight: 700; fill: #58A6FF; }
+    .c { fill: #58A6FF; animation: blink 1s steps(1, end) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="698" height="62" rx="12" fill="#0d1117" stroke="#30363d" />
+  <g class="p p0"><text x="28" y="41">Ethical Hacker</text><rect class="c" x="252" y="21" width="14" height="25" rx="2" /></g>
+  <g class="p p1"><text x="28" y="41">Trader</text><rect class="c" x="128" y="21" width="14" height="25" rx="2" /></g>
+  <g class="p p2"><text x="28" y="41">Coder</text><rect class="c" x="112" y="21" width="14" height="25" rx="2" /></g>
+  <g class="p p3"><text x="28" y="41">Gamer</text><rect class="c" x="112" y="21" width="14" height="25" rx="2" /></g>
+  <g class="p p4"><text x="28" y="41">Influencer</text><rect class="c" x="190" y="21" width="14" height="25" rx="2" /></g>
+  <g class="p p5"><text x="28" y="41">Digital Creator</text><rect class="c" x="268" y="21" width="14" height="25" rx="2" /></g>
+</svg>

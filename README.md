@@ -2,9 +2,7 @@
 
 # SQL RIZWAN
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Ethical+Hacker;Trader;Coder;Gamer;Influencer;Digital+Creator" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Ethical+Hacker;Trader;Coder;Gamer;Influencer;Digital+Creator" alt="Ethical Hacker | Trader | Coder | Gamer | Influencer | Digital Creator" />
-</a>
+<img src="assets/typing.svg" alt="Ethical Hacker | Trader | Coder | Gamer | Influencer | Digital Creator" width="700" />
 
 <br/><br/>
 
@@ -38,6 +36,35 @@
 <img src="https://img.shields.io/badge/Crypto-FFD700?style=flat-square&logo=bitcoin&logoColor=black" alt="Crypto" />
 <img src="https://img.shields.io/badge/Trading-00C853?style=flat-square&logo=tradingview&logoColor=white" alt="Trading" />
 <img src="https://img.shields.io/badge/Content-CFF4FF?style=flat-square&logo=youtube&logoColor=red" alt="Content" />
+<br/>
+<img src="https://img.shields.io/badge/E--commerce-8957E5?style=flat-square&logo=shopify&logoColor=white" alt="E-commerce" />
+<img src="https://img.shields.io/badge/Admin%20Panels-58A6FF?style=flat-square&logo=grafana&logoColor=white" alt="Admin Panels" />
+<img src="https://img.shields.io/badge/Reel%20Automation-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Reel Automation" />
+<img src="https://img.shields.io/badge/Trading%20Bots-00C853?style=flat-square&logo=binance&logoColor=white" alt="Trading Bots" />
+<br/>
+<img src="https://img.shields.io/badge/Bug%20Bounty-D00000?style=flat-square&logo=hackerone&logoColor=white" alt="Bug Bounty" />
+<img src="https://img.shields.io/badge/Web%20Apps-3FB950?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Apps" />
+<img src="https://img.shields.io/badge/Android%20Apps-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Apps" />
+<img src="https://img.shields.io/badge/Tournaments-FFD700?style=flat-square&logo=epicgames&logoColor=black" alt="Tournaments" />
+
+<br/><br/>
+
+<b>Vibe check</b>
+<br/>
+<img src="https://img.shields.io/badge/Gen%20Z-FF66B2?style=flat-square" alt="Gen Z" />
+<img src="https://img.shields.io/badge/Full%20Bakchod-FF9900?style=flat-square" alt="Full Bakchod" />
+<img src="https://img.shields.io/badge/Adha%20Pagal-FFD700?style=flat-square" alt="Adha Pagal" />
+<img src="https://img.shields.io/badge/Meme%20Dealer-8957E5?style=flat-square" alt="Meme Dealer" />
+<br/>
+<img src="https://img.shields.io/badge/404%20Sleep%20Not%20Found-D00000?style=flat-square" alt="404 Sleep Not Found" />
+<img src="https://img.shields.io/badge/Stack%20Overflow%20Survivor-F78166?style=flat-square" alt="Stack Overflow Survivor" />
+<img src="https://img.shields.io/badge/Chai%20Powered-8B4513?style=flat-square" alt="Chai Powered" />
+<img src="https://img.shields.io/badge/Night%20Owl-1F6FEB?style=flat-square" alt="Night Owl" />
+<br/>
+<img src="https://img.shields.io/badge/Pro%20Overthinker-8957E5?style=flat-square" alt="Pro Overthinker" />
+<img src="https://img.shields.io/badge/GTA%20Grindset-3FB950?style=flat-square" alt="GTA Grindset" />
+<img src="https://img.shields.io/badge/Bug%20Factory-FF6633?style=flat-square" alt="Bug Factory" />
+<img src="https://img.shields.io/badge/Reels%20%3E%20Sleep-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Reels over Sleep" />
 
 <br/><br/>
 
